@@ -1,0 +1,4 @@
+install git cli install
+git add .
+git commit -am "what did u update"
+git push
