@@ -256,7 +256,55 @@ img {
     margin-bottom: 20px; /* Adjust as needed */
 }
 /* ===== WORK =====*/
-/* styles.css */
+/* Styles for Book Section */
+.Books {
+    background-color: #f9f9f9;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.book {
+    max-width: 600px;
+    margin: 0 auto 40px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.book__title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.book p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.book img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: rgb(240, 173, 185);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
 
 
   
