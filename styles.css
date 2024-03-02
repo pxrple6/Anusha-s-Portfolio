@@ -330,6 +330,9 @@ img {
   margin-left: auto;
 
 }
+#mc_embed_signup .button {
+    background-color: pink !important;
+}
 
 /* ===== FOOTER =====*/
 .footer {
